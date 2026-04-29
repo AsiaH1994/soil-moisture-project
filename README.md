@@ -2,6 +2,6 @@
 
 Leaf shape data for soil mositure project
 
-Genotype and condition count data - count_data_pub.csv
+Genotype and condition count data - soil_mositure_count_data_pub.csv
 
-Leaf shape data - shape_data_pub_042226.csv
+Leaf shape data - soil_mositure_shape_data_pub_042226.csv
